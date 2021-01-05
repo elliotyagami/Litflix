@@ -14,7 +14,7 @@
   "author": "Harsh Jain",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "blockstack": "^19.2.1",
     "prop-types": "^15.6.2",
     "react": "^16.6.1",
